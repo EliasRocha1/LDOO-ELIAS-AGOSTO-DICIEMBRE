@@ -1,0 +1,18 @@
+body {
+     font-family: "Times New Roman", Times, serif;
+  background-color: lightgray;
+}
+table, td {
+  font-family: "Times New Roman", Times, serif;
+  background-color: gray;
+  height: 100px;
+  width: 1000px;
+  outline-style: dotted;    
+  border-collapse: collapse;
+}
+input{
+ height: 50px;
+  width: 500px;
+  outline-style: dotted;    
+  border-collapse: collapse;
+}
